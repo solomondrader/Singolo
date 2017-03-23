@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title> Singolo </title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+
+  <body>
+
+    <div class="header">
+
+      <div class="nav">
+
+        <div class="logo">
+          SINGOLO<span class="salmon">*</span>
+        </div>
+
+
+
+        <div class="links">
+          <a href="#">HOME</a>
+          &bull;
+          <a href="#">SERVICES</a>
+          &bull;
+          <a href="#">PORTFOLIO</a>
+          &bull;
+          <a href="#">ABOUT</a>
+          &bull;
+          <a href="#">CONTACT</a>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="banner">
+      <img src="images/phones.png" alt="mobile designs" />
+    </div>
+
+<div class="servicescontainer">
+  <div class="ourservices">
+    <b>Our Services</b>
+  </div>
+
+  <div class="ourservicesdescription">
+    Fusce dapibus, tellus ac cursus commodo,
+    tortor mauris condimentum. Duis mollis,
+    non commodo luctus, nisi erat porttitor ligula,
+    eget lacinia odio sem nec elit. Fusce dapibus,
+    tellus ac cursus commodo, tortor mauris
+    condimentum nibh.
+  </div>
+
+  <div class="upperleftcolumn">
+    <img src="images/pencil.png" alt="pencil icon" />
+    <div class="customdesign">
+    <b>Custom Design</b>
+    </div>
+    <p>
+      Vivamus vel quam lacinia,
+      tincidunt dui non, vehicula nisi.
+      Nulla a sem erat.
+      Pellentesque egestas venenatis lorem .
+    </p>
+
+  </div>
+
+
+
+  <div class="uppermiddlecolumn">
+    <img src="images/lightbulb.png" alt="lightbulb icon" />
+    <div class="inovativeideas">
+    Inovative Ideas
+    </div>
+  </div>
+
+  <div class="upperrightcolumn">
+    <div class="loveistheanswer">
+    Love Is The Answer
+    </div>
+    <img src="images/heart.png" alt="heart icon" />
+  </div>
+
+  <div class="lowerleftcolumn">
+    <img src="images/tablet.png" alt="tablet icon" />
+    <div class="responsivelayout">
+      Responsive Layout
+    </div>
+  </div>
+
+
+  <div class="lowermiddlecolumn">
+    <img src="images/speechbubble.png" alt="speech bubble icon" />
+    <div class="support">
+      24/7 Support
+
+  </div>
+
+
+
+  <div class="lowerrightcolumn">
+    <img src="images/star.png" alt="star icon" />
+    <div class="feellikeastar">
+    Feel Like A Star
+    </div>
+  </div>
+
+
+  </body>
+
+
+</html>
