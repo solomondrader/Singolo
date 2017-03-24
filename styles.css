@@ -83,86 +83,89 @@ font-family: 'Lato', sans-serif;
 
 .upperleftcolumn{
   width:340px;
-  height:209px;
+  height:150px;
   background-color: #f2f2f2;
   float: left;
   margin-top: 58px;
 }
 
-.lowerleftcolumn {
-  width:340px;
-  height:209px;
-  background-color: #f2f2f2;
+.subtitle{
   float: left;
-  margin-top: 48px;
+  color: #666d89;
+  margin-left: 20px;
 }
 
-.uppermiddlecolumn{
-  width:340px;
-  height:209px;
-  background-color: #f2f2f2;
-  float: left;
-  margin-top: 58px;
-}
-
-.lowermiddlecolumn{
-  width:340px;
-  height:209px;
-  background-color: #f2f2f2;
-  float: left;
-  margin-top: 48px;
-}
-
-.upperrightcolumn{
-  width:340px;
-  height:209px;
-  background-color: #f2f2f2;
-  float: left;
-  margin-top: 58px;
-}
-
-.lowerrightcolumn{
-  width:340px;
-  height:209px;
-  background-color: #f2f2f2;
-  float: left;
-  margin-top: -62px;
-  margin-left: 341px;
-}
-
-.loveistheanswer{
-  margin-right: 103px;
-  float: right;
-}
-
-.inovativeideas{
-  margin-right: 130px;
-  float: right;
-}
-
-.customdesign{
-  margin-right: 130px;
-  float: right;
-}
-.responsivelayout{
-  margin-right: 105px;
-  float: right;
-}
-
-.support{
-  margin-right: 140px;
-  float: right;
-}
-
-.feellikeastar{
-  margin-right: 130px;
-  float: right;
+.upperleftcolumn img{
+  float:left;
 }
 
 div p{
   margin-left: 80px;
-  float: right;
+  float: left;
+  margin-top: -20px;
+  color: #666d89;
 }
+
+.lowerleftcolumn {
+  width:340px;
+  height:150px;
+  background-color: #f2f2f2;
+  float: left;
+  margin-top: 40px;
+}
+.lowerleftcolumn img{
+  float: left;
+}
+
+
+.uppermiddlecolumn{
+  width:340px;
+  height:150px;
+  background-color: #f2f2f2;
+  float: left;
+  margin-top: 58px;
+}
+.uppermiddlecolumn img{
+  float: left;
+}
+
+.lowermiddlecolumn{
+  width:340px;
+  height:150px;
+  background-color: #f2f2f2;
+  float: left;
+  margin-top: 40px;
+}
+.lowermiddlecolumn img{
+  float: left;
+}
+
+
+.upperrightcolumn{
+  width:340px;
+  height:150px;
+  background-color: #f2f2f2;
+  float: left;
+  margin-top: 58px;
+}
+
+.upperrightcolumn img{
+  float: left;
+}
+
+.lowerrightcolumn{
+  width:340px;
+  height:150px;
+  background-color: #f2f2f2;
+  float: left;
+  margin-top: 40px;
+
+}
+
+.lowerrightcolumn img{
+  float: left;
+}
+
 
 
 

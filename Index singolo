@@ -54,60 +54,84 @@
 
   <div class="upperleftcolumn">
     <img src="images/pencil.png" alt="pencil icon" />
-    <div class="customdesign">
+    <div class="subtitle">
     <b>Custom Design</b>
     </div>
     <p>
-      Vivamus vel quam lacinia,
-      tincidunt dui non, vehicula nisi.
-      Nulla a sem erat.
-      Pellentesque egestas venenatis lorem .
+     Curabitur vestibulum eget mauris quis laoreet.
+     Phasellus in quam laoreet, viverra lacus ut,
+     ultrices velit.
     </p>
-
   </div>
 
 
 
   <div class="uppermiddlecolumn">
     <img src="images/lightbulb.png" alt="lightbulb icon" />
-    <div class="inovativeideas">
-    Inovative Ideas
+    <div class="subtitle">
+    <b>Inovative Ideas</b>
     </div>
+  <p>
+  Quisque luctus, quam eget molestie commodo,
+  lacus purus cursus purus, nec rutrum tellus
+  dolor id lorem.
+  </p>
   </div>
 
   <div class="upperrightcolumn">
-    <div class="loveistheanswer">
-    Love Is The Answer
-    </div>
     <img src="images/heart.png" alt="heart icon" />
+    <div class="subtitle">
+      <b>Love Is The Answer</b>
+    </div>
+    <p>
+      Nulla sed nunc et tortor luctus faucibus.
+      Morbi at aliquet turpis, et consequat felis.
+      Quisque condimentum.
+    </p>
   </div>
 
   <div class="lowerleftcolumn">
     <img src="images/tablet.png" alt="tablet icon" />
-    <div class="responsivelayout">
-      Responsive Layout
+    <div class="subtitle">
+      <b>Responsive Layout</b>
     </div>
+    <p>
+      Sed porttitor placerat rhoncus.
+      In at nunc tellus. Maecenas blandit nunc ligula.
+      Praesent elit leo.
+    </p>
   </div>
+
 
 
   <div class="lowermiddlecolumn">
     <img src="images/speechbubble.png" alt="speech bubble icon" />
-    <div class="support">
-      24/7 Support
-
+    <div class="subtitle">
+      <b>24/7 Support</b>
   </div>
+  <p>
+    Vivamus vel quam lacinia,
+    tincidunt dui non, vehicula nisi.
+    Nulla a sem erat. Pellentesque egestas
+    venenatis lorem .
+  </p>
+</div>
 
 
 
   <div class="lowerrightcolumn">
     <img src="images/star.png" alt="star icon" />
-    <div class="feellikeastar">
-    Feel Like A Star
+    <div class="subtitle">
+    <b>Feel Like A Star</b>
     </div>
+    <p>
+      Quisque hendrerit purus dapibus,
+      ornare nibh vitae, viverra nibh.
+      Fusce vitae aliquam tellus.
+    </p>
   </div>
 
-
-  </body>
+ </body>
 
 
 </html>
