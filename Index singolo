@@ -131,6 +131,39 @@
     </p>
   </div>
 
+ <div class="portfoliocontainer">
+    <div class="portfolio">
+     <b>Portfolio</b>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div class="portfoliodescription">
+     Duis mollis, est non commodo luctus,
+     nisi erat porttitor ligula, eget lacinia
+     odio sem nec elit.
+    </div>
+
+
+    <br/>
+    <br/>
+
+    <div class="portnav">
+      <a href="#">All</a>
+
+      <a href="#">Web Design</a>
+
+      <a href="#">Graphic Design</a>
+      
+      <a href="#">Art Work</a>
+
+    </div>
+
+
+  </div>
+
+
+
  </body>
 
 

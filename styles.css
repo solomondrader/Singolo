@@ -69,7 +69,7 @@ font-family: 'Lato', sans-serif;
 
 .servicescontainer{
   background-color: #f2f2f2;
-  height: 1000px;
+  height: 565px;
   max-width: 1020px;
   margin-left: auto;
   margin-right: auto;
@@ -166,11 +166,36 @@ div p{
   float: left;
 }
 
+.portfoliocontainer{
+  width: 1020px;
+  height: 870px;
+  background-color: #2d303a;
+  float: left;
+  padding-top: 68px;
+}
+
+.portfolio{
+font-size: 1.4rem;
+float: left;
+margin-top: 0px;
+color: #666D89;
+}
+
+.portfoliodescription{
+  float:left;
+  margin-top:0px;
+  color: #666D89;
+}
+
+.portnav{
+  float: left;
+  color: white;
+  text-decoration: none;
+  font-size: 0.75rem;
+  
 
 
-
-
-
+}
 
 
 
